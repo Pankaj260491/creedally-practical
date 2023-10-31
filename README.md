@@ -1,5 +1,3 @@
-# creedally-practical
-=== Plugin Name ===
 # API Integration WordPress Plugin
 **Plugin Name:** API Integration
 **Version:** 1.0.0
